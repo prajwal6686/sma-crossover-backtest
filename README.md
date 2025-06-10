@@ -55,7 +55,7 @@ pip install yfinance pandas numpy matplotlib
 Then run the notebook in Jupyter or VSCode:
 
 ```bash
-jupyter notebook sma_strategy.ipynb
+jupyter notebook Backtest Strategy in Python (Moving Average Crossover).ipynb
 ```
 
 ---
